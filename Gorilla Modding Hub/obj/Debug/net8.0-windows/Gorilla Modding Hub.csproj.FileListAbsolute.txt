@@ -1,0 +1,20 @@
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\bin\Debug\net8.0-windows\Gorilla Modding Hub.exe
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\bin\Debug\net8.0-windows\Gorilla Modding Hub.deps.json
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\bin\Debug\net8.0-windows\Gorilla Modding Hub.runtimeconfig.json
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\bin\Debug\net8.0-windows\Gorilla Modding Hub.dll
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\bin\Debug\net8.0-windows\Gorilla Modding Hub.pdb
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub_MarkupCompile.cache
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub_MarkupCompile.lref
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub.g.resources
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub.AssemblyInfoInputs.cache
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub.AssemblyInfo.cs
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub.csproj.CoreCompileInputs.cache
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub.dll
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\refint\Gorilla Modding Hub.dll
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub.pdb
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\Gorilla Modding Hub.genruntimeconfig.cache
+C:\Users\lehac\source\repos\Gorilla Modding Hub\Gorilla Modding Hub\obj\Debug\net8.0-windows\ref\Gorilla Modding Hub.dll
